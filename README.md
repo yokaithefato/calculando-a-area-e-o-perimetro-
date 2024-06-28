@@ -27,32 +27,27 @@ O usuário deve seguir a sequência abaixo para utilizar o programa:
    \[ C = 2 \pi r \]
 4. O programa exibirá a área e o comprimento calculados.
 
-### Exemplos de Entrada e Saída
+## Exemplos de Entrada e Saída
 
-#### Exemplo 1
+### Exemplo 1
 
-**Entrada:**
-- Raio \( r \): 5
+| Entrada      | Saída              |
+|--------------|--------------------|
+| Raio \( r \) | Área: 78.53975     |
+| 5            | Comprimento: 31.4159 |
 
-**Saída:**
-- Área: 78.53975
-- Comprimento: 31.4159
+### Exemplo 2
 
-#### Exemplo 2
+| Entrada      | Saída              |
+|--------------|--------------------|
+| Raio \( r \) | Área: 314.159      |
+| 10           | Comprimento: 62.8318 |
 
-**Entrada:**
-- Raio \( r \): 10
+### Exemplo 3
 
-**Saída:**
-- Área: 314.159
-- Comprimento: 62.8318
+| Entrada      | Saída              |
+|--------------|--------------------|
+| Raio \( r \) | Área: 28.27431     |
+| 3            | Comprimento: 18.84954 |
 
-#### Exemplo 3
-
-**Entrada:**
-- Raio \( r \): 3
-
-**Saída:**
-- Área: 28.27431
-- Comprimento: 18.84954
 
